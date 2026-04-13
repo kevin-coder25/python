@@ -1,0 +1,5 @@
+print ("Bio Data")
+print ("Name: Saqib Hussain Khan")
+print ("Father Name: Sabir Hussain Khan")
+print ("Age: 26")
+print ("Thank You!") 
